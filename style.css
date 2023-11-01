@@ -25,7 +25,7 @@ header .logo {
     color: #fff;
     font-weight: 700;
     text-decoration: none;
-    font-size: 10rem;
+    font-size: 1.5rem;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
@@ -43,7 +43,7 @@ header ul li a {
     padding: 6px 15px;
     color: #fff;
     border-radius: 20px;
-    font-size: 4rem;
+    font-size: 1rem;
 }
 header ul li a:hover,
 header ul li a.active {
@@ -100,7 +100,7 @@ section img#mountains_front {
     border-radius: 40px;
     background: #fff;
     color: #2b1055;
-    font-size: 3em;
+    font-size: 2em;
     z-index: 9;
 }
 .sec {
@@ -117,7 +117,7 @@ section img#mountains_front {
     font-size: 40px;
     color: #fff;
 }
-.sec p i marquee{
-    font-size:5rem;
-    color:yellow;
+.sec p i marquee {
+    font-size: 5rem;
+    color: yellow;
 }
